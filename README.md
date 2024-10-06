@@ -78,7 +78,7 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 Open the EC2 public IPv4 DNS in your browser:    ``` http://13.60.243.154:8501/   ```
 
 ## Example UI Deployment:
-![UI Deployment] https://github.com/Kaushik-Puttaswamy/Chat-with-PDF-Document-using-GenAI/blob/main/requirements.txt
+![UI Deployment] (https://github.com/Kaushik-Puttaswamy/Chat-with-PDF-Document-using-GenAI/blob/main/requirements.txt)
 
 
 ##### Contact:
