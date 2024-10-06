@@ -28,11 +28,11 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 
 ## Installation & Setup:
 ### 1. Clone the repository:
-~ git clone https://github.com/your-repo/Chat-with-PDF-Document-using-GenAI.git
-~ cd Chat-with-PDF-Document-using-GenAI
+  ``` git clone https://github.com/your-repo/Chat-with-PDF-Document-using-GenAI.git  ```
+  ``` cd Chat-with-PDF-Document-using-GenAI   ```
 
 ### 2. Install dependencies:
-~ pip install -r requirements.txt
+  ``` pip install -r requirements.txt  ```
 
 ### 3. Set up environment variables:
 
