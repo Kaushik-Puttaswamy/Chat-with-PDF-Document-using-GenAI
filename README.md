@@ -81,7 +81,7 @@ Open the EC2 public IPv4 DNS in your browser:    ``` http://13.60.243.154:8501/ 
 ![UI Deployment](https://github.com/Kaushik-Puttaswamy/Chat-with-PDF-Document-using-GenAI/blob/main/UI%20Deployment.png)
 
 
-##### Contact:
+# Contact:
 For further assistance, feel free to contact:   ``` https://www.linkedin.com/in/kaushik-puttaswamy-317475148/   ```
 
 
