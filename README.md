@@ -30,6 +30,8 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 
 ├── 🖼 logo.jpg               # Logo for app's UI
 
+├── 🖼 UI Deployment.png      # Image showing app deployment
+
 ## Installation & Setup:
 ### 1. Clone the repository:
   ``` git clone https://github.com/your-repo/Chat-with-PDF-Document-using-GenAI.git  ```
