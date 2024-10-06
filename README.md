@@ -4,9 +4,13 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 
 ## Features:
 • Upload multiple PDF files.
+
 • Extract and split PDF text into chunks.
+
 • Build FAISS vector storage for efficient similarity search.
+
 • Query the PDF content with AI-powered Q&A functionality.
+
 • Responsive web app with user-friendly interface.
 
 ## Project Structure:
