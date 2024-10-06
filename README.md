@@ -11,12 +11,19 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 
 ## Project Structure:
 📂 Chat-with-PDF-Document-using-GenAI
+
 │
+
 ├── 📄 requirements.txt       # Python dependencies
+
 ├── 📄 app.py                 # Streamlit application file
+
 ├── 📄 config.py              # Core logic for PDF processing & embedding
+
 ├── 📄 .env                   # API key configuration
+
 ├── 📂 faiss_index/           # Stores FAISS index files (index.faiss, index.pkl)
+
 ├── 🖼 logo.jpg               # Logo for app's UI
 
 ## Installation & Setup:
