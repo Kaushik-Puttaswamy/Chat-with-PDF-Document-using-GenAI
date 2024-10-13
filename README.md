@@ -12,6 +12,9 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 • Query the PDF content with AI-powered Q&A functionality.
 
 • Responsive web app with user-friendly interface.
+## Project Architecture:
+Below is the architecture diagram outlining the core flow of the system:
+![Project architecture diagram](https://github.com/Kaushik-Puttaswamy/Chat-with-PDF-Document-using-GenAI/blob/main/Project%20architecture%20diagram.png)
 
 ## Project Structure:
 📂 Chat-with-PDF-Document-using-GenAI
@@ -32,9 +35,6 @@ A Streamlit app that allows users to upload PDF files and ask questions about th
 
 ├── 🖼 UI Deployment.png      # Image showing app deployment
 
-## Project Architecture:
-Below is the architecture diagram outlining the core flow of the system:
-[!]
 
 ## Installation & Setup:
 ### 1. Clone the repository:
