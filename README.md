@@ -88,7 +88,7 @@ Open the EC2 public IPv4 DNS in your browser:    ``` http://13.60.243.154:8501/ 
 
 
 # Contact:
-Author:   ``` https://www.linkedin.com/in/kaushik-puttaswamy-317475148/   ```
+Author:   ``` https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/   ```
 
 
 
